@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_login_testops,,,,05-03-2024 15:40:40,05-03-2024 15:40:46,5.418s,FAILED
+,,,,,,,
+Test Cases/Login testops,,,,05-03-2024 15:40:41,05-03-2024 15:40:46,5.111s,FAILED
+"openBrowser("""")",,,,05-03-2024 15:40:41,05-03-2024 15:40:46,4.779s,FAILED

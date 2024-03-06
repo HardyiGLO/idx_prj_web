@@ -8,7 +8,7 @@
       "proposedLocator": "//div[@id\u003d\u0027kc-content-wrapper\u0027]/div/div[2]/div/div/div[2]/div[2]/form",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/form_Log in with email_form_sign_up_idRelative.png"
+      "pathToScreenshot": "Reports/20240305_101240/TS_login_testops/20240305_101441/Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/form_Log in with email_form_sign_up_idRelative.png"
     }
   ]
 }

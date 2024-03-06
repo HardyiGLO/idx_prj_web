@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login testops</name>
+   <name>Indocyber</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b88c1c0f-f55e-4fc6-b876-76c284ac50de</testCaseGuid>
+   <testCaseGuid>ddf9d1ce-b9b8-4fe1-9878-a878e80fa8fb</testCaseGuid>
 </TestCaseEntity>
