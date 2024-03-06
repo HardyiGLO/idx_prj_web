@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.indocyber.co.id/')
+WebUI.navigateToUrl('detik.com')
 
 WebUI.click(findTestObject('Object Repository/WebIndocyber/Page_Home  Indocyber/a_Our Journey'))
 
