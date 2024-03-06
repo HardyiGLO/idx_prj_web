@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('detik.com')
+WebUI.navigateToUrl('https://www.indocyber.co.id/')
 
-WebUI.click(findTestObject('Object Repository/WebIndocyber/Page_Home  Indocyber/a_Our Journey'))
+WebUI.click(findTestObject('Object Repository/indocyber2/Page_Home  Indocyber/a_Contact Us'))
+
+WebUI.setText(findTestObject('Object Repository/indocyber2/Page_Contact Us  Indocyber/input_What can we do for you_name'), 
+    'suhardi')
+
+WebUI.setText(findTestObject('Object Repository/indocyber2/Page_Contact Us  Indocyber/input_What can we do for you_email'), 
+    'suhardi@indocyber.id')
 
 WebUI.closeBrowser()
 
