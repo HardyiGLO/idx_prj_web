@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+detik2,Firefox 123.0,,,06-03-2024 16:51:59,06-03-2024 16:52:46,46.569s,PASSED
+,,,,,,,
+Test Cases/detik,Firefox 123.0,,,06-03-2024 16:52:00,06-03-2024 16:52:46,46.249s,PASSED
+"openBrowser("""")",Firefox 123.0,,,06-03-2024 16:52:00,06-03-2024 16:52:03,3.487s,PASSED
+"navigateToUrl(""detik.com"")",Firefox 123.0,,,06-03-2024 16:52:03,06-03-2024 16:52:10,6.326s,PASSED
+"click(findTestObject(""Object Repository/WebIndocyber/Page_Home  Indocyber/a_Our Journey""))",Firefox 123.0,,,06-03-2024 16:52:10,06-03-2024 16:52:45,34.873s,PASSED
+closeBrowser(),Firefox 123.0,,,06-03-2024 16:52:45,06-03-2024 16:52:46,1.265s,PASSED
